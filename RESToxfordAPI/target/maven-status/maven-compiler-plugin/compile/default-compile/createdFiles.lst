@@ -1,0 +1,6 @@
+Controlador\MiServlet.class
+com\mycompany\restoxfordapi\JakartaRestConfiguration.class
+Modelo\Consulta.class
+Modelo\Conexion.class
+DAO\DAOpalabra.class
+com\mycompany\restoxfordapi\resources\JakartaEE8Resource.class
